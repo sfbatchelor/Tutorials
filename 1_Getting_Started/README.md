@@ -1,2 +1,2 @@
-# Tutorials
-Companion code for this tutorial: https://www.sfbatchelor.com/post/setting-up-three-js-webgl
+# Getting Started
+Set of tutorials for setting up and using basic three.js for generative art.
