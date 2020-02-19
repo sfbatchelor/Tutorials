@@ -15,6 +15,7 @@ function init() {
     // Set the background color
     scene.background = new THREE.Color('blue');
 
+    //helper functions
     createCamera();
     createControls();
     createLights();
